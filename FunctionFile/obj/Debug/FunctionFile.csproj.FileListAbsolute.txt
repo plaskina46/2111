@@ -1,0 +1,6 @@
+C:\Users\Ann\source\repos\FunctionFile\FunctionFile\bin\Debug\FunctionFile.dll
+C:\Users\Ann\source\repos\FunctionFile\FunctionFile\bin\Debug\FunctionFile.pdb
+C:\Users\Ann\source\repos\FunctionFile\FunctionFile\obj\Debug\FunctionFile.csproj.AssemblyReference.cache
+C:\Users\Ann\source\repos\FunctionFile\FunctionFile\obj\Debug\FunctionFile.csproj.CoreCompileInputs.cache
+C:\Users\Ann\source\repos\FunctionFile\FunctionFile\obj\Debug\FunctionFile.dll
+C:\Users\Ann\source\repos\FunctionFile\FunctionFile\obj\Debug\FunctionFile.pdb
